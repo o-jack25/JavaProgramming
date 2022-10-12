@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModyifiers/AccessModyifiers.iml" filepath="$PROJECT_DIR$/AccessModyifiers/AccessModyifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopyObjects/CopyObjects.iml" filepath="$PROJECT_DIR$/CopyObjects/CopyObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicPolyMorphism/DynamicPolyMorphism.iml" filepath="$PROJECT_DIR$/DynamicPolyMorphism/DynamicPolyMorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandiling/ExceptionHandiling.iml" filepath="$PROJECT_DIR$/ExceptionHandiling/ExceptionHandiling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader/FileReader.iml" filepath="$PROJECT_DIR$/FileReader/FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWriters/FileWriters.iml" filepath="$PROJECT_DIR$/FileWriters/FileWriters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChp8Reading/JavaChp8Reading.iml" filepath="$PROJECT_DIR$/JavaChp8Reading/JavaChp8Reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgram.iml" filepath="$PROJECT_DIR$/JavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+    </modules>
+  </component>
+</project>
